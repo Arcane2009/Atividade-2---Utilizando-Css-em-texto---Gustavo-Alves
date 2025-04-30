@@ -74,3 +74,18 @@ li{
 .bolo{
     margin-left: 180px;
 }
+
+.colher_img{
+    height: 100px;
+    width: 100px;
+    margin-left: -100px;
+    margin-top: -130px;
+}
+
+.colher_img2{
+    height: 100px;
+    width: 100px;
+    margin-left: 250px;
+    margin-top: -130px;
+    transform: scaleX(-1);
+}
